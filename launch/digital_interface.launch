@@ -1,0 +1,7 @@
+
+<launch>
+
+  <node pkg="phidget_digital_interface" type="digital_interface.py" name="phidget_digital_interface_node"  output="screen" >
+  </node>
+
+</launch>
